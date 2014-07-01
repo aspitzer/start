@@ -35,12 +35,13 @@
 			"php artisan optimize"
 		],
 		"post-create-project-cmd": [
-			"php artisan key:generate"
+			"php artisan key:generate",
+			"php artisan db:seed"
 		]
 	},
 	"config": {
 		"preferred-install": "dist"
 	},
-	"minimum-stability": "stable",
+	"minimum-stability": "dev",
 	"prefer-stable": true
 }
