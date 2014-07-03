@@ -36,8 +36,7 @@
 		],
 		"post-create-project-cmd": [
 			"php artisan key:generate",
-			"php artisan asset:publish pongocms/cms",
-			"php artisan asset:publish pongocms/site"
+			"php artisan asset:publish pongocms/cms"
 		]
 	},
 	"config": {
