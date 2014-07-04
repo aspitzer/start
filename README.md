@@ -5,9 +5,9 @@
 This package is still under construction... !!  
 but you can test it running `composer create-project pongocms/start <your_project_folder>`
 
-#### 1) Add the PongoServiceProvider to app.php
+#### 1) Add Service Providers to app.php
 
-Find your `/app/config/app.php` and add the `PongoServiceProvider`
+Find your `/app/config/app.php` and add to the `providers` section both the `PongoServiceProvider` and the `SiteServiceProvider`
 
 ```php
 
@@ -18,6 +18,7 @@ Find your `/app/config/app.php` and add the `PongoServiceProvider`
     ...
 
     'Pongo\Cms\PongoServiceProvider',
+    'Pongo\Site\SiteServiceProvider',
 );
 ```
 
