@@ -29,8 +29,13 @@ Create a new database (supported by Laravel) and than set your connection data u
 
 #### 3) Run the Setup command (under construction...)
 
-Open a terminal and run `php artisan pongo:setup`  
-Your first (admin) account will be `admin/admin`.
+Open a terminal and run `php artisan pongo:setup`
+
+#### 3) Run a web server and log in
+
+You are almost ready to go!  
+Rise your local webserver up with `php artisan serve` and point your browser to `http://localhost:8000/cms`
+Your first (admin) account is `admin/admin`.
 
 Happy Pongo!
 
