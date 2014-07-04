@@ -17,7 +17,7 @@ Find your `/app/config/app.php` and add the `PongoServiceProvider`
     
     ...
 
-    'Pongo\Cms\PongoServiceProvider’,
+    'Pongo\Cms\PongoServiceProvider',
 );
 ```
 
