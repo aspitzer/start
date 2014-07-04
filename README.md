@@ -23,12 +23,15 @@ Find your `/app/config/app.php` and add the `PongoServiceProvider`
 
 #### 2) Create a new Db and set connection data
 
-Create a new database (supported by Laravel) and than set your connection data under `/app/config/database.php` file.  
+Create a new database (supported by Laravel) and than set your connection data under `/app/config/database.php` file.
+
 (maybe an automated installer in the future...)
 
 #### 3) Run the Setup command (under construction...)
 
-Open a terminal and run `php artisan pongo:setup`.  
+Open a terminal and run `php artisan pongo:setup`  
 Your first (admin) account will be `admin/admin`.
 
 Happy Pongo!
+
+(...and always remember that this project is in a super-early stage - do not use in production!!)
