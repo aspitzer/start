@@ -28,7 +28,7 @@ Create a new database (supported by Laravel) and than set your connection data u
 
 (maybe an automated installer in the future...)
 
-#### 3) Run the Setup command (under construction...)
+#### 3) Run the Setup command
 
 Open a terminal and run `php artisan pongo:setup`
 
