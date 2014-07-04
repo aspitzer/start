@@ -31,7 +31,7 @@ Create a new database (supported by Laravel) and than set your connection data u
 
 Open a terminal and run `php artisan pongo:setup`
 
-#### 3) Run a web server and log in
+#### Run a web server and log in
 
 You are almost ready to go!  
 Rise your local webserver up with `php artisan serve` and point your browser to `http://localhost:8000/cms`
