@@ -1,5 +1,7 @@
-[![Latest Stable Version](https://poser.pugx.org/pongocms/start/v/stable.svg)](https://packagist.org/packages/pongocms/start) [![Total Downloads](https://poser.pugx.org/pongocms/start/downloads.svg)](https://packagist.org/packages/pongocms/start) [![Latest Unstable Version](https://poser.pugx.org/pongocms/start/v/unstable.svg)](https://packagist.org/packages/pongocms/start) [![License](https://poser.pugx.org/pongocms/start/license.svg)](https://packagist.org/packages/pongocms/start)
-
+[![Latest Stable Version](https://poser.pugx.org/pongocms/start/v/stable.svg)](https://packagist.org/packages/pongocms/start)
+[![Total Downloads](https://poser.pugx.org/pongocms/start/downloads.svg)](https://packagist.org/packages/pongocms/start)
+[![Latest Unstable Version](https://poser.pugx.org/pongocms/start/v/unstable.svg)](https://packagist.org/packages/pongocms/start)
+[![License](https://poser.pugx.org/pongocms/start/license.svg)](https://packagist.org/packages/pongocms/start)
 # PongoCMS v2
 
 ### A multilingual CMS built upon Laravel 4 and Bootstrap 3
